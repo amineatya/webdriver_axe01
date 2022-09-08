@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@axe-core/webdriverjs": "^4.4.4",
+    "axe-core": "^4.4.3",
+    "chai": "^4.3.6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
