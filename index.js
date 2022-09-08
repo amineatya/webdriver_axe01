@@ -29,8 +29,6 @@ export default class MyClass {
     } else {
       console.log("nav is not visible");
       driver.quit();
-      //driver.close();
-      //driver.quit();
     }
   }
 }
