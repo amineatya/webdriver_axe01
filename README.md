@@ -1,20 +1,20 @@
-# axe-webdriverjs demo
+axe-webdriverjs demo
 
 How to set up aXe with Selenium WebdriverJS for automated testing.
 
-## Requirements
+Requirements
 
 Node.js
 npm
 Chrome browser
 
-## Installation
+Installation
 
-For more info on setup and testing other browsers, review the selenium-webriver documentation.
+For info on setup and testing other browsers, review the selenium-webriver documentation.
 Install dependencies (including Mocha):
 
 npm install
 
-## Usage: Run tests
+Usage: Run tests
 
 npm test
