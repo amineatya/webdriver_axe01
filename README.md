@@ -15,6 +15,6 @@ Install dependencies (including Mocha):
 
 npm install
 
-## run the tests:
+## run the tests
 
 npm test
