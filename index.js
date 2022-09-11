@@ -7,6 +7,7 @@ var driver = new WebDriver.Builder().forBrowser("chrome").build();
 export default class MyClass {
   setup() {
     driver.get("https://dequeuniversity.com/demo/mars/").then(() => {
+     
       new AxeBuilder(driver).analyze((err, result) => {
         if (err) {
         }
