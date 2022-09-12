@@ -5,7 +5,9 @@ How to set up aXe with Selenium WebdriverJS for automated testing.
 ## Requirements
 
 Node.js
+
 npm
+
 Chrome browser
 
 ## Installation
